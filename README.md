@@ -18,18 +18,16 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## Comandos
 
-> npm i 
-- Para baixar as dependencias.
+- npm i 
+> Para baixar as dependencias.
 
-> cd frontend
-<br>
-> npm start
+- cd frontend
+- npm start
 
-- Em outro terminal.
+> Em outro terminal.
 
-> cd backend
-<br>
-> npm start 
+- cd backend
+- npm start 
 
 📩 Contato
 antoniomiltonaa19@gmail.com
