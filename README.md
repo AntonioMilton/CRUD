@@ -22,11 +22,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Para baixar as dependencias.
 
 > cd frontend
+<br>
 > npm start
 
 - Em outro terminal.
 
 > cd backend
+<br>
 > npm start 
 
 📩 Contato
